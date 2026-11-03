@@ -1,4 +1,4 @@
-name = "naijabrainarena"
+name = "naija-brain-arena1"
 main = "worker.js"
 compatibility_date = "2026-11-03"
 
@@ -9,6 +9,6 @@ run_worker_first = ["/api/*"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "naija-brain-arena-db"
+database_name = "naija-brain-arena1-db"
 database_id = "e2107f1b-7a80-4cc0-a08b-f0a25610ba80"
 migrations_dir = "migrations"
